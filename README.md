@@ -13,3 +13,5 @@ In addition to implementation strategies, the project outlines validation checks
 By adopting a structured multiple-baseline strategy, study teams can improve data quality, strengthen regulatory traceability, and support accurate efficacy and safety analyses. This practical approach provides a repeatable workflow that can be applied across a wide range of clinical trial designs where multiple valid baselines exist within the same study.
 
 Keywords: ADaM, CDISC, Multiple Baselines, BASETYPE, ABLFL, APERIOD, Clinical Programming, Traceability, Regulatory Compliance, Data Standards, Clinical Trials.
+
+Please find the PDF for th examples and approach
